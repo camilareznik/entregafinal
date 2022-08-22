@@ -1,0 +1,62 @@
+.cardComplejo {
+    div {
+        div {
+            .imgComplejo {
+                width: 100%;
+            }
+        }
+
+        div {
+
+            .info {
+                font-size: 20px;
+
+            }
+
+            .boton {
+                background-color: rgb(255, 162, 128);
+
+                &:hover {
+                    color: black;
+                }
+            }
+
+        }
+    }
+
+}
+
+.cardServicios {
+    background-color: rgb(255, 162, 128);
+    font-size: 20px;
+}
+
+.serviciosPr {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.cardCabañas {
+    font-size: 20px;
+
+    .imgCabañas {
+        display: flex;
+        width: 100%;
+    }
+    .imgCom {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    }
+    .boton {
+        background-color: rgb(255, 162, 128);
+    
+    }
+}
+
+.formularioReservas {
+    .boton {
+        background-color: rgb(255, 162, 128);
+    }
+}

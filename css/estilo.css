@@ -1,0 +1,71 @@
+@charset "UTF-8";
+.header {
+  background-image: linear-gradient(to right, coral, #ffa280); }
+  .header .lasRosas {
+    font-size: 35px; }
+  .header a {
+    font-size: 25px; }
+
+.cardComplejo div div .imgComplejo {
+  width: 100%; }
+
+.cardComplejo div div .info {
+  font-size: 20px; }
+
+.cardComplejo div div .boton {
+  background-color: #ffa280; }
+  .cardComplejo div div .boton:hover {
+    color: black; }
+
+.cardServicios {
+  background-color: #ffa280;
+  font-size: 20px; }
+
+.serviciosPr {
+  display: flex;
+  justify-content: center;
+  text-align: center; }
+
+.cardCabañas {
+  font-size: 20px; }
+  .cardCabañas .imgCabañas {
+    display: flex;
+    width: 100%; }
+  .cardCabañas .imgCom {
+    align-items: center;
+    display: flex;
+    justify-content: center; }
+  .cardCabañas .boton {
+    background-color: #ffa280; }
+
+.formularioReservas .boton {
+  background-color: #ffa280; }
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  background-color: #ffa280; }
+
+h2 {
+  background-color: #ffa280;
+  font-size: 40px;
+  text-align: center;
+  display: flex;
+  justify-content: center; }
+
+h3 {
+  font-size: 30px;
+  text-align: center; }
+
+h4 {
+  font-size: 30px;
+  background-color: #ffa280;
+  text-align: center; }
+
+.listaServ {
+  display: flex;
+  justify-content: center;
+  font-size: 25px; }
+
+#footer {
+  font-size: 20px; }
